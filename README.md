@@ -1,6 +1,8 @@
 # fdf
 Создание 3D  проекции с помощью библиотеки  minilibx
 
-to run use:
+to use run:
   
-  ./fdf test_maps/(choose any map)
+  ```
+   ./fdf test_maps/(choose any map)
+```
